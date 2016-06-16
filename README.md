@@ -5,4 +5,4 @@ A minimal standalone Spring Boot MVC with a single controller, service, reposito
 ## Gradle
 
 - `gradle build`
-- `gradle bootRun`
+- `gradle bootRun` (After running this command, you should be able to hit http://localhost:8080)
