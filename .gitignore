@@ -1,13 +1,4 @@
-build/**
-bin/**
-.DS_STORE
-.settings
-.project
-.gradle/**
-.classpath
-.idea
-.gradle
-*.iml
-*.iws
-*.ipr
-*.git
+.gradle/
+.idea/
+build/
+out/
