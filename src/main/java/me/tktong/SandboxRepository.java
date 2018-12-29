@@ -1,4 +1,4 @@
-package org.tktong;
+package me.tktong;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

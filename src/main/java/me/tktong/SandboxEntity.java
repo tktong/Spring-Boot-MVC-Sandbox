@@ -1,4 +1,4 @@
-package org.tktong;
+package me.tktong;
 
 import javax.persistence.*;
 

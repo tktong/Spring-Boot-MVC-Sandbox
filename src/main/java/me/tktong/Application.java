@@ -1,4 +1,4 @@
-package org.tktong;
+package me.tktong;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
