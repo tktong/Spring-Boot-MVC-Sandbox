@@ -11,4 +11,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Spring Boot Sample"
+rootProject.name = "SpringBootSample"
